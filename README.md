@@ -1,4 +1,4 @@
-# fs.readdir-withFileTypes
+# readdir-withFileTypes
 
 > A ponyfill for `fs.readdir(path, { withFileTypes: true })`
 
